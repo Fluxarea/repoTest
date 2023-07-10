@@ -1,6 +1,8 @@
 aplikacja 1
 podaj nazwe uzytkownika 1.1
 podJ POPRAWNE HASLO 1.3
-adsfadf 1.4
+adsfadf 1.5
 
---- dodanie czesci dla klient101 dla brancha klient101
+dodanie czesci dla klient101 dla brancha klient101
+dodana nowa zmiana dla klienta102
+
