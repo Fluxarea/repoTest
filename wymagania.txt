@@ -1,1 +1,15 @@
 wymagania 1
+
+Logowanie do Googla #1
+-wprowadz dane do pola in-put logowania 
+-wprowadz haslo do pola in-put pasword
+ 
+Logowanie do Microsoft #2
+-wprowadz dane do pola in-put logowania 
+-wprowadz haslo do pola in-put pasword
+
+Przypomnij haslo #3 Flu-145
+-wprowadz dane do pola in-put logowania 
+-wprowadz haslo do pola in-put pasword
+-przypomnij haslo
+
