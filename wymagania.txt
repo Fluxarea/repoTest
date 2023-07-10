@@ -13,3 +13,6 @@ Przypomnij haslo #3 Flu-145
 -wprowadz haslo do pola in-put pasword
 -przypomnij haslo
 
+
+Nowa Zmiana dodana z InteliJ
+
